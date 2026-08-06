@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview**
 
 This project is part of the Build Your Own Full Stack LLM Service on AWS course. The goal is to develop a complete pipeline that retrieves financial data from the U.S. Securities and Exchange Commission (SEC), processes it using AWS cloud services, and prepares it for analysis with a Large Language Model (LLM).
 
